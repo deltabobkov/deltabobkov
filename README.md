@@ -25,6 +25,7 @@ I'm actively learning Python right now. In the future I would really like to lea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
+  <img src="https://storage.yandexcloud.net/cloud-www-assets/region-assets/ru/favicon/favicon-76x76.png" title="YandexCloud" width="40" height="40"/>
 </div>
 
 <!--
